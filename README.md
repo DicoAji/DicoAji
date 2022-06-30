@@ -10,7 +10,14 @@ Here are some ideas to get you started:
 - 🏢 I'm a Front End Engineer working for a project in Dinas Pendidikan & Kebudayaan Kabupatn Batang
 - 💻 I'm a Full Stack Developer for project report on discovery of cultural heritage objects in Batang district
 - 📫 How to reach me: dicoaji12@gmail.com
-- ⚡ Fun fact: I like football, volley ball,
+- ⚽ Fun fact: I like football, volley ball,
 
 
-<h1 align="center"> Dico Aji Prasetyo </h1>
+<h2 align="center">📞Contact Me</h2>
+
+## Languages And Tools
+
+###Programming Language
+
+###Library & Framework
+
