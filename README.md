@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Languages And Tools
 
-### Programming Language
+### 👽 Programming Language
 
-### Library & Framework
+### 🎁 Library & Framework
 
