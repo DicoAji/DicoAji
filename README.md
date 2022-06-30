@@ -1,4 +1,4 @@
-### Hi there I'm Dico Aji Prasetyo 👋
+# Hi there I'm Dico Aji Prasetyo 👋
 
 
 **DicoAji/DicoAji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 💻 I'm a Full Stack Developer for project report on discovery of cultural heritage objects in Batang district
 - 📫 How to reach me: dicoaji12@gmail.com
 - ⚡ Fun fact: I like football, volley ball,
+
+
+<h1 align="center"> Dico Aji Prasetyo </h1>
