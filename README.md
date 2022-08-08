@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <!-- CSS -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" title="CSS3"/></a>
         <!-- JavaScript -->
-        <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%E7EB00.svg?style=flat&logo=javascript&logoColor=%E7EB00" title="JavaScript" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-E7EB00.svg?style=flat&logo=javascript&logoColor=%E7EB00" title="JavaScript" /></a>
         <!-- Sass -->
         <!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a> -->
         <!-- PHP -->
