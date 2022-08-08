@@ -24,18 +24,16 @@ Here are some ideas to get you started:
 ## Languages And Tools
 
 <p align="left">
-        <!-- HTML -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
-        <!-- CSS -->
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" title="CSS3"/></a>
-        <!-- JavaScript -->
         <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-CACD18.svg?style=flat&logo=javascript&logoColor=white" title="JavaScript" /></a>
-        <!-- Sass -->
-        <!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a> -->
-        <!-- PHP -->
         <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
-        <!-- MySQL -->
         <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" title="MySQL" /></a>
-        <!-- MongoDB -->
-        <!-- <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" title="MongoDB" /></a> -->
+        <!-- CodeIgniter -->
+        <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" title="Codeigniter 4"/></a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="JQuery" title="JQuery" /></a>
+        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
+        <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" title="npm" /></a>
 </p>
