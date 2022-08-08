@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h2 align="center">📞Contact Me</h2>
 <p align="center">
         <a href="https://www.linkedin.com/in/dico-aji-prasetyo-154318223/"><img src="https://img.shields.io/badge/-Dico%20Aji%20Prasetyo-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="linkedin badge"/></a>
+        <a href="https://www.instagram.com/dicoaji_/"><img src="https://img.shields.io/badge/-@dicoaji_-E4405F?style=flat&logo=Instagram&logoColor=white" alt="instagram badge"/></a>
+        <a href="mailto:dicoaji12@gmail.com"><img src="https://img.shields.io/badge/-dicoaji12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="gmail badge"/></a>
+        <a href="https://github.com/DicoAji"><img src="https://img.shields.io/badge/DicoAji-100000?style=flat&logo=github&logoColor=white" alt="github badge"/></a>
         
 </p>
 
