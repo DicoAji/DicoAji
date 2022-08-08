@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 </p>
 
 ## Languages And Tools
-
-### 👽 Programming Language
-
-
-### 🎁 Library & Framework
-
+<!-- HTML -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" title="HTML5" /></a>
+        <!-- CSS -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" title="CSS3"/></a>
+        <!-- JavaScript -->
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" /></a>
+        <!-- Sass -->
+        <!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="Sass" /></a> -->
+        <!-- PHP -->
+        <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" title="PHP" /></a>
