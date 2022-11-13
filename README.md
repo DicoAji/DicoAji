@@ -1,4 +1,4 @@
-# Hi there I'm Dico Aji Prasetyo 👋
+# Hallo Everyone I'm Dico Aji Prasetyo 👋
 
 
 Here are some ideas to get you started:
