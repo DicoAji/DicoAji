@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 👀 I’m interested in web developer especially Front-End Web Developer
+- 👀 I’m interested in web developer especially Front-End Web Developer and Machine Learning
 - 🪑 I’m currently learning Diponegoro University, majoring in Informatics
 - 🏢 I'm a Front End Engineer working for a project in Dinas Pendidikan & Kebudayaan Kabupatn Batang
 - 💻 I'm a Full Stack Developer for project report on discovery of cultural heritage objects in Batang district
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
         <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
         <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" title="npm" /></a>
+         <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-white.svg?style=flat&logo=python&Color=black" title="python" /></a>
 </p>
